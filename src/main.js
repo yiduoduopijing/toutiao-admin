@@ -7,8 +7,8 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import store from './store'
 import './style/index.less'
-/* //在全局注册elemengtui */
 
+/* //在全局注册elemengtui */
 Vue.use(ElementUI)
 
 Vue.config.productionTip = false
